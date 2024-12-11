@@ -1,0 +1,44 @@
+[
+{
+  "directory": "E:/C_Projects/Multi_Menu2/My_cot_menu/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\main.c.obj -c E:\\C_Projects\\Multi_Menu2\\My_cot_menu\\main.c",
+  "file": "E:/C_Projects/Multi_Menu2/My_cot_menu/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "E:/C_Projects/Multi_Menu2/My_cot_menu/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\alarmmenu.c.obj -c E:\\C_Projects\\Multi_Menu2\\My_cot_menu\\src\\alarmmenu.c",
+  "file": "E:/C_Projects/Multi_Menu2/My_cot_menu/src/alarmmenu.c",
+  "output": "CMakeFiles/main.dir/src/alarmmenu.c.obj"
+},
+{
+  "directory": "E:/C_Projects/Multi_Menu2/My_cot_menu/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\common.c.obj -c E:\\C_Projects\\Multi_Menu2\\My_cot_menu\\src\\common.c",
+  "file": "E:/C_Projects/Multi_Menu2/My_cot_menu/src/common.c",
+  "output": "CMakeFiles/main.dir/src/common.c.obj"
+},
+{
+  "directory": "E:/C_Projects/Multi_Menu2/My_cot_menu/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\cot_menu.c.obj -c E:\\C_Projects\\Multi_Menu2\\My_cot_menu\\src\\cot_menu.c",
+  "file": "E:/C_Projects/Multi_Menu2/My_cot_menu/src/cot_menu.c",
+  "output": "CMakeFiles/main.dir/src/cot_menu.c.obj"
+},
+{
+  "directory": "E:/C_Projects/Multi_Menu2/My_cot_menu/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\language.c.obj -c E:\\C_Projects\\Multi_Menu2\\My_cot_menu\\src\\language.c",
+  "file": "E:/C_Projects/Multi_Menu2/My_cot_menu/src/language.c",
+  "output": "CMakeFiles/main.dir/src/language.c.obj"
+},
+{
+  "directory": "E:/C_Projects/Multi_Menu2/My_cot_menu/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\mainmenu.c.obj -c E:\\C_Projects\\Multi_Menu2\\My_cot_menu\\src\\mainmenu.c",
+  "file": "E:/C_Projects/Multi_Menu2/My_cot_menu/src/mainmenu.c",
+  "output": "CMakeFiles/main.dir/src/mainmenu.c.obj"
+},
+{
+  "directory": "E:/C_Projects/Multi_Menu2/My_cot_menu/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\weightmenu.c.obj -c E:\\C_Projects\\Multi_Menu2\\My_cot_menu\\src\\weightmenu.c",
+  "file": "E:/C_Projects/Multi_Menu2/My_cot_menu/src/weightmenu.c",
+  "output": "CMakeFiles/main.dir/src/weightmenu.c.obj"
+}
+]

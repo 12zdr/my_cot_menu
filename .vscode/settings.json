@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "menu_temprature.h": "c",
+        "mainmenu.h": "c",
+        "language.h": "c",
+        "common.h": "c",
+        "alarmmenu.h": "c",
+        "weightmenu.h": "c"
+    }
+}
