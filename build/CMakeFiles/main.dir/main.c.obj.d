@@ -1,5 +1,4 @@
-CMakeFiles/main.dir/main.c.obj: \
- E:\C_Projects\Multi_Menu2\My_cot_menu\main.c \
+CMakeFiles/main.dir/main.c.obj: E:\My_cot_menu\main.c \
  D:/mingw64/x86_64-w64-mingw32/include/stdio.h \
  D:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
  D:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
@@ -19,14 +18,12 @@ CMakeFiles/main.dir/main.c.obj: \
  D:/mingw64/x86_64-w64-mingw32/include/limits.h \
  D:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
  D:/mingw64/x86_64-w64-mingw32/include/malloc.h \
- E:/C_Projects/Multi_Menu2/My_cot_menu/include/cot_menu.h \
+ E:/My_cot_menu/include/cot_menu.h \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdint.h \
  D:/mingw64/x86_64-w64-mingw32/include/stdint.h \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stddef.h \
  D:/mingw64/x86_64-w64-mingw32/include/stddef.h \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdbool.h \
- E:/C_Projects/Multi_Menu2/My_cot_menu/include/language.h \
- E:/C_Projects/Multi_Menu2/My_cot_menu/include/mainmenu.h \
- E:/C_Projects/Multi_Menu2/My_cot_menu/include/cot_menu.h \
- E:/C_Projects/Multi_Menu2/My_cot_menu/include/language.h \
- E:/C_Projects/Multi_Menu2/My_cot_menu/include/common.h
+ E:/My_cot_menu/include/language.h E:/My_cot_menu/include/mainmenu.h \
+ E:/My_cot_menu/include/cot_menu.h E:/My_cot_menu/include/language.h \
+ E:/My_cot_menu/include/common.h

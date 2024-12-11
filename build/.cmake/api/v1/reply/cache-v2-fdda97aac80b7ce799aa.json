@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/C_Projects/Multi_Menu2/My_cot_menu/build"
+			"value" : "e:/My_cot_menu/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/C_Projects/Multi_Menu2/My_cot_menu/build/CMakeFiles/pkgRedirects"
+			"value" : "E:/My_cot_menu/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/C_Projects/Multi_Menu2/My_cot_menu"
+			"value" : "E:/My_cot_menu"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1307,7 +1307,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/C_Projects/Multi_Menu2/My_cot_menu/build"
+			"value" : "E:/My_cot_menu/build"
 		},
 		{
 			"name" : "main_IS_TOP_LEVEL",
@@ -1331,7 +1331,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/C_Projects/Multi_Menu2/My_cot_menu"
+			"value" : "E:/My_cot_menu"
 		}
 	],
 	"kind" : "cache",

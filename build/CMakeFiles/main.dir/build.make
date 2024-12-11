@@ -52,10 +52,10 @@ RM = D:\Cmake\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\C_Projects\Multi_Menu2\My_cot_menu
+CMAKE_SOURCE_DIR = E:\My_cot_menu
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:\C_Projects\Multi_Menu2\My_cot_menu\build
+CMAKE_BINARY_DIR = E:\My_cot_menu\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.dir/depend.make
@@ -70,108 +70,108 @@ include CMakeFiles/main.dir/flags.make
 
 CMakeFiles/main.dir/main.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/main.c.obj: CMakeFiles/main.dir/includes_C.rsp
-CMakeFiles/main.dir/main.c.obj: E:/C_Projects/Multi_Menu2/My_cot_menu/main.c
+CMakeFiles/main.dir/main.c.obj: E:/My_cot_menu/main.c
 CMakeFiles/main.dir/main.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\C_Projects\Multi_Menu2\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/main.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/main.c.obj -MF CMakeFiles\main.dir\main.c.obj.d -o CMakeFiles\main.dir\main.c.obj -c E:\C_Projects\Multi_Menu2\My_cot_menu\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/main.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/main.c.obj -MF CMakeFiles\main.dir\main.c.obj.d -o CMakeFiles\main.dir\main.c.obj -c E:\My_cot_menu\main.c
 
 CMakeFiles/main.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/main.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\C_Projects\Multi_Menu2\My_cot_menu\main.c > CMakeFiles\main.dir\main.c.i
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\My_cot_menu\main.c > CMakeFiles\main.dir\main.c.i
 
 CMakeFiles/main.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/main.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\C_Projects\Multi_Menu2\My_cot_menu\main.c -o CMakeFiles\main.dir\main.c.s
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\My_cot_menu\main.c -o CMakeFiles\main.dir\main.c.s
 
 CMakeFiles/main.dir/src/alarmmenu.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/alarmmenu.c.obj: CMakeFiles/main.dir/includes_C.rsp
-CMakeFiles/main.dir/src/alarmmenu.c.obj: E:/C_Projects/Multi_Menu2/My_cot_menu/src/alarmmenu.c
+CMakeFiles/main.dir/src/alarmmenu.c.obj: E:/My_cot_menu/src/alarmmenu.c
 CMakeFiles/main.dir/src/alarmmenu.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\C_Projects\Multi_Menu2\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/main.dir/src/alarmmenu.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/alarmmenu.c.obj -MF CMakeFiles\main.dir\src\alarmmenu.c.obj.d -o CMakeFiles\main.dir\src\alarmmenu.c.obj -c E:\C_Projects\Multi_Menu2\My_cot_menu\src\alarmmenu.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/main.dir/src/alarmmenu.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/alarmmenu.c.obj -MF CMakeFiles\main.dir\src\alarmmenu.c.obj.d -o CMakeFiles\main.dir\src\alarmmenu.c.obj -c E:\My_cot_menu\src\alarmmenu.c
 
 CMakeFiles/main.dir/src/alarmmenu.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/alarmmenu.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\C_Projects\Multi_Menu2\My_cot_menu\src\alarmmenu.c > CMakeFiles\main.dir\src\alarmmenu.c.i
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\My_cot_menu\src\alarmmenu.c > CMakeFiles\main.dir\src\alarmmenu.c.i
 
 CMakeFiles/main.dir/src/alarmmenu.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/alarmmenu.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\C_Projects\Multi_Menu2\My_cot_menu\src\alarmmenu.c -o CMakeFiles\main.dir\src\alarmmenu.c.s
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\My_cot_menu\src\alarmmenu.c -o CMakeFiles\main.dir\src\alarmmenu.c.s
 
 CMakeFiles/main.dir/src/common.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/common.c.obj: CMakeFiles/main.dir/includes_C.rsp
-CMakeFiles/main.dir/src/common.c.obj: E:/C_Projects/Multi_Menu2/My_cot_menu/src/common.c
+CMakeFiles/main.dir/src/common.c.obj: E:/My_cot_menu/src/common.c
 CMakeFiles/main.dir/src/common.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\C_Projects\Multi_Menu2\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/main.dir/src/common.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/common.c.obj -MF CMakeFiles\main.dir\src\common.c.obj.d -o CMakeFiles\main.dir\src\common.c.obj -c E:\C_Projects\Multi_Menu2\My_cot_menu\src\common.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/main.dir/src/common.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/common.c.obj -MF CMakeFiles\main.dir\src\common.c.obj.d -o CMakeFiles\main.dir\src\common.c.obj -c E:\My_cot_menu\src\common.c
 
 CMakeFiles/main.dir/src/common.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/common.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\C_Projects\Multi_Menu2\My_cot_menu\src\common.c > CMakeFiles\main.dir\src\common.c.i
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\My_cot_menu\src\common.c > CMakeFiles\main.dir\src\common.c.i
 
 CMakeFiles/main.dir/src/common.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/common.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\C_Projects\Multi_Menu2\My_cot_menu\src\common.c -o CMakeFiles\main.dir\src\common.c.s
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\My_cot_menu\src\common.c -o CMakeFiles\main.dir\src\common.c.s
 
 CMakeFiles/main.dir/src/cot_menu.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/cot_menu.c.obj: CMakeFiles/main.dir/includes_C.rsp
-CMakeFiles/main.dir/src/cot_menu.c.obj: E:/C_Projects/Multi_Menu2/My_cot_menu/src/cot_menu.c
+CMakeFiles/main.dir/src/cot_menu.c.obj: E:/My_cot_menu/src/cot_menu.c
 CMakeFiles/main.dir/src/cot_menu.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\C_Projects\Multi_Menu2\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/main.dir/src/cot_menu.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/cot_menu.c.obj -MF CMakeFiles\main.dir\src\cot_menu.c.obj.d -o CMakeFiles\main.dir\src\cot_menu.c.obj -c E:\C_Projects\Multi_Menu2\My_cot_menu\src\cot_menu.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/main.dir/src/cot_menu.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/cot_menu.c.obj -MF CMakeFiles\main.dir\src\cot_menu.c.obj.d -o CMakeFiles\main.dir\src\cot_menu.c.obj -c E:\My_cot_menu\src\cot_menu.c
 
 CMakeFiles/main.dir/src/cot_menu.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/cot_menu.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\C_Projects\Multi_Menu2\My_cot_menu\src\cot_menu.c > CMakeFiles\main.dir\src\cot_menu.c.i
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\My_cot_menu\src\cot_menu.c > CMakeFiles\main.dir\src\cot_menu.c.i
 
 CMakeFiles/main.dir/src/cot_menu.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/cot_menu.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\C_Projects\Multi_Menu2\My_cot_menu\src\cot_menu.c -o CMakeFiles\main.dir\src\cot_menu.c.s
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\My_cot_menu\src\cot_menu.c -o CMakeFiles\main.dir\src\cot_menu.c.s
 
 CMakeFiles/main.dir/src/language.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/language.c.obj: CMakeFiles/main.dir/includes_C.rsp
-CMakeFiles/main.dir/src/language.c.obj: E:/C_Projects/Multi_Menu2/My_cot_menu/src/language.c
+CMakeFiles/main.dir/src/language.c.obj: E:/My_cot_menu/src/language.c
 CMakeFiles/main.dir/src/language.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\C_Projects\Multi_Menu2\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/main.dir/src/language.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/language.c.obj -MF CMakeFiles\main.dir\src\language.c.obj.d -o CMakeFiles\main.dir\src\language.c.obj -c E:\C_Projects\Multi_Menu2\My_cot_menu\src\language.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/main.dir/src/language.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/language.c.obj -MF CMakeFiles\main.dir\src\language.c.obj.d -o CMakeFiles\main.dir\src\language.c.obj -c E:\My_cot_menu\src\language.c
 
 CMakeFiles/main.dir/src/language.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/language.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\C_Projects\Multi_Menu2\My_cot_menu\src\language.c > CMakeFiles\main.dir\src\language.c.i
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\My_cot_menu\src\language.c > CMakeFiles\main.dir\src\language.c.i
 
 CMakeFiles/main.dir/src/language.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/language.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\C_Projects\Multi_Menu2\My_cot_menu\src\language.c -o CMakeFiles\main.dir\src\language.c.s
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\My_cot_menu\src\language.c -o CMakeFiles\main.dir\src\language.c.s
 
 CMakeFiles/main.dir/src/mainmenu.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/mainmenu.c.obj: CMakeFiles/main.dir/includes_C.rsp
-CMakeFiles/main.dir/src/mainmenu.c.obj: E:/C_Projects/Multi_Menu2/My_cot_menu/src/mainmenu.c
+CMakeFiles/main.dir/src/mainmenu.c.obj: E:/My_cot_menu/src/mainmenu.c
 CMakeFiles/main.dir/src/mainmenu.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\C_Projects\Multi_Menu2\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/main.dir/src/mainmenu.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/mainmenu.c.obj -MF CMakeFiles\main.dir\src\mainmenu.c.obj.d -o CMakeFiles\main.dir\src\mainmenu.c.obj -c E:\C_Projects\Multi_Menu2\My_cot_menu\src\mainmenu.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/main.dir/src/mainmenu.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/mainmenu.c.obj -MF CMakeFiles\main.dir\src\mainmenu.c.obj.d -o CMakeFiles\main.dir\src\mainmenu.c.obj -c E:\My_cot_menu\src\mainmenu.c
 
 CMakeFiles/main.dir/src/mainmenu.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/mainmenu.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\C_Projects\Multi_Menu2\My_cot_menu\src\mainmenu.c > CMakeFiles\main.dir\src\mainmenu.c.i
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\My_cot_menu\src\mainmenu.c > CMakeFiles\main.dir\src\mainmenu.c.i
 
 CMakeFiles/main.dir/src/mainmenu.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/mainmenu.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\C_Projects\Multi_Menu2\My_cot_menu\src\mainmenu.c -o CMakeFiles\main.dir\src\mainmenu.c.s
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\My_cot_menu\src\mainmenu.c -o CMakeFiles\main.dir\src\mainmenu.c.s
 
 CMakeFiles/main.dir/src/weightmenu.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/weightmenu.c.obj: CMakeFiles/main.dir/includes_C.rsp
-CMakeFiles/main.dir/src/weightmenu.c.obj: E:/C_Projects/Multi_Menu2/My_cot_menu/src/weightmenu.c
+CMakeFiles/main.dir/src/weightmenu.c.obj: E:/My_cot_menu/src/weightmenu.c
 CMakeFiles/main.dir/src/weightmenu.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\C_Projects\Multi_Menu2\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/main.dir/src/weightmenu.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/weightmenu.c.obj -MF CMakeFiles\main.dir\src\weightmenu.c.obj.d -o CMakeFiles\main.dir\src\weightmenu.c.obj -c E:\C_Projects\Multi_Menu2\My_cot_menu\src\weightmenu.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/main.dir/src/weightmenu.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/weightmenu.c.obj -MF CMakeFiles\main.dir\src\weightmenu.c.obj.d -o CMakeFiles\main.dir\src\weightmenu.c.obj -c E:\My_cot_menu\src\weightmenu.c
 
 CMakeFiles/main.dir/src/weightmenu.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/weightmenu.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\C_Projects\Multi_Menu2\My_cot_menu\src\weightmenu.c > CMakeFiles\main.dir\src\weightmenu.c.i
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\My_cot_menu\src\weightmenu.c > CMakeFiles\main.dir\src\weightmenu.c.i
 
 CMakeFiles/main.dir/src/weightmenu.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/weightmenu.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\C_Projects\Multi_Menu2\My_cot_menu\src\weightmenu.c -o CMakeFiles\main.dir\src\weightmenu.c.s
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\My_cot_menu\src\weightmenu.c -o CMakeFiles\main.dir\src\weightmenu.c.s
 
 # Object files for target main
 main_OBJECTS = \
@@ -197,7 +197,7 @@ main.exe: CMakeFiles/main.dir/build.make
 main.exe: CMakeFiles/main.dir/linkLibs.rsp
 main.exe: CMakeFiles/main.dir/objects1.rsp
 main.exe: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\C_Projects\Multi_Menu2\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable main.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\My_cot_menu\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable main.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\main.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -209,6 +209,6 @@ CMakeFiles/main.dir/clean:
 .PHONY : CMakeFiles/main.dir/clean
 
 CMakeFiles/main.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\C_Projects\Multi_Menu2\My_cot_menu E:\C_Projects\Multi_Menu2\My_cot_menu E:\C_Projects\Multi_Menu2\My_cot_menu\build E:\C_Projects\Multi_Menu2\My_cot_menu\build E:\C_Projects\Multi_Menu2\My_cot_menu\build\CMakeFiles\main.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\My_cot_menu E:\My_cot_menu E:\My_cot_menu\build E:\My_cot_menu\build E:\My_cot_menu\build\CMakeFiles\main.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/main.dir/depend
 

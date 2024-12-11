@@ -29,7 +29,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "D:/Cmake/share/cmake-3.30/Modules/Platform/Windows-windres.cmake"
   "D:/Cmake/share/cmake-3.30/Modules/Platform/Windows.cmake"
   "D:/Cmake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake"
-  "E:/C_Projects/Multi_Menu2/My_cot_menu/CMakeLists.txt"
+  "E:/My_cot_menu/CMakeLists.txt"
   "CMakeFiles/3.30.0/CMakeCCompiler.cmake"
   "CMakeFiles/3.30.0/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.30.0/CMakeRCCompiler.cmake"

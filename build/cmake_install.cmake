@@ -1,4 +1,4 @@
-# Install script for directory: E:/C_Projects/Multi_Menu2/My_cot_menu
+# Install script for directory: E:/My_cot_menu
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "E:/C_Projects/Multi_Menu2/My_cot_menu/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "E:/My_cot_menu/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

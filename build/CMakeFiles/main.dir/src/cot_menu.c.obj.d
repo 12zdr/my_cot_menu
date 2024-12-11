@@ -1,6 +1,5 @@
-CMakeFiles/main.dir/src/cot_menu.c.obj: \
- E:\C_Projects\Multi_Menu2\My_cot_menu\src\cot_menu.c \
- E:/C_Projects/Multi_Menu2/My_cot_menu/include/cot_menu.h \
+CMakeFiles/main.dir/src/cot_menu.c.obj: E:\My_cot_menu\src\cot_menu.c \
+ E:/My_cot_menu/include/cot_menu.h \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdint.h \
  D:/mingw64/x86_64-w64-mingw32/include/stdint.h \
  D:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \

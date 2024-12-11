@@ -154,8 +154,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "E:/C_Projects/Multi_Menu2/My_cot_menu/build",
-		"source" : "E:/C_Projects/Multi_Menu2/My_cot_menu"
+		"build" : "E:/My_cot_menu/build",
+		"source" : "E:/My_cot_menu"
 	},
 	"version" : 
 	{
